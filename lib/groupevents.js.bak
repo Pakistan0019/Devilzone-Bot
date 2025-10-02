@@ -1,5 +1,5 @@
 //Give Me Credit If Using This File Give Me Credit On Your Channel ✅ 
-// Credits JawadTechX - KHAN-MD 💜 
+// Credits PAKISTAN0019- DEVILZONE-BOT 💜 
 
 const { isJidGroup } = require('@whiskeysockets/baileys');
 const config = require('../config');
@@ -10,7 +10,7 @@ const getContextInfo = (m) => {
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363348739987203@newsletter',
+            newsletterJid: '120363422876630302@newsletter',
             newsletterName 'DevilZone-bot',
             serverMessageId: 143,
         },
