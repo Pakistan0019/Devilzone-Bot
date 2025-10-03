@@ -7,7 +7,7 @@
 
 <!-- 📊 STATS & HERO ANIMATION -->
 <div align="center">
-
+    <img src="https://files.catbox.moe/shmet4.jpg" />
   <!-- GitHub Stats Badges -->
   <p>
     <img src="https://img.shields.io/github/forks/Devilzone-Bot/Devilzone-Bot?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
