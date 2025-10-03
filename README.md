@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <!-- Devilzone Bot Logo (custom red skull logo) -->
+  <!-- ✅ Devilzone Bot Logo (red skull custom logo) -->
   <img src="https://files.catbox.moe/bxqan2.png" width="300"/>
 </p>
 
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/github/package-json/v/Devilzone-Bot/Devilzone-Bot?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" />
   </p>
 
-  <!-- Hero GIF with hover zoom -->
+  <!-- Hero GIF -->
   <p>
     <img src="https://i.imgur.com/7wJZ8Hf.gif" alt="Devilzone Animation" width="500" style="border-radius:16px;"/>
   </p>
