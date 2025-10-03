@@ -10,7 +10,7 @@
     <img src="https://files.catbox.moe/shmet4.jpg" />
   <!-- GitHub Stats Badges -->
   <p>
-    <img src="https://img.shields.io/github/forks/Devilzone-Bot/Devilzone-Bot?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/forks/Devilzone-Bot/Arsalan-Ai?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
     <img src="https://img.shields.io/github/followers/Devilzone-Bot?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/last-commit/Devilzone-Bot/Devilzone-Bot?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
     <img src="https://img.shields.io/github/repo-size/Devilzone-Bot/Devilzone-Bot?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
@@ -40,4 +40,4 @@ Click the button below to fork this repo into your own GitHub account:
 ---
 
 # 👑 Developed By
-🔥 Devilzone-Bot Official 🔥
+🔥 Pakistan0019 Official 🔥
