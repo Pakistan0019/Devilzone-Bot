@@ -1,13 +1,13 @@
 > ⚔️ Developed by Devilzone-Bot Official | 100+ Features | Super Aggressive Bot
 
 <p align="center">
-  <!-- Top GIF (replace with your own gif link if you want) -->
+  <!-- Top GIF (replace with your own gif if needed) -->
   <img src="https://i.imgur.com/7wJZ8Hf.gif" />
 </p>
 
 <p align="center">
-  <!-- Bot Logo (replace with your own logo link) -->
-  <img src="https://i.ibb.co/6JmF9mN/devilzone-logo.png" />
+  <!-- Devilzone Bot Logo -->
+  <img src="https://github.com/Devilzone-Bot/Devilzone-Bot/raw/main/images/devil-logo.png" width="300" />
 </p>
 
 <!-- 📊 STATS & HERO ANIMATION -->
