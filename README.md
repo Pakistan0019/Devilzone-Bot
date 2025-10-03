@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Devilzone Bot Logo -->
-  <img src="./images/devil-logo.png" width="300"/>
+  <img src="devilzone-bot-logo.jpg" alt="DEVILZONE BOT Logo - Red skull with horns" style="width: 300px; height: auto;">
 </p>
 
 <!-- 📊 STATS & HERO ANIMATION -->
