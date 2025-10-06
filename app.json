@@ -112,7 +112,7 @@
      "ANTI_LINK_KICK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     },
     
@@ -124,8 +124,8 @@
 
    "MENTION_REPLY": {
       "description": "make it true if want mention reply if someone menetion you.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     
     "MENU_IMAGE_URL": {
@@ -142,8 +142,8 @@
 
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     
     "AUTO_RECORDING": {
