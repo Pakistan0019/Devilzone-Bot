@@ -41,7 +41,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363422876630302@newsletter',
+                    newsletterJid: '120363404898225478@newsletter',
                     newsletterName: "Devilzone-bot",
                     serverMessageId: 143
                 }
