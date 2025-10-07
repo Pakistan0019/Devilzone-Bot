@@ -13,8 +13,8 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
     try {
         const start = new Date().getTime();
 
-        const reactionEmojis = ['🔥', '⚡', '🚀', '💨', '🎯', '🎉', '🌟', '💥', '🕐', '🔹'];
-        const textEmojis = ['💎', '🏆', '⚡️', '🚀', '🎶', '🌠', '🌀', '🔱', '🛡️', '✨'];
+        const reactionEmojis = ['⚡'];
+        const textEmojis = ['🚀'];
 
         const reactionEmoji = reactionEmojis[Math.floor(Math.random() * reactionEmojis.length)];
         let textEmoji = textEmojis[Math.floor(Math.random() * textEmojis.length)];
@@ -32,7 +32,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
         const end = new Date().getTime();
         const responseTime = (end - start) / 1000;
 
-        const text = `> *DevilZone-bot SPEED: ${responseTime.toFixed(2)}ms ${reactionEmoji}*`;
+        const text = `> *ping: ${reactionEmoji} ${responseTime.toFixed(2)}ms*`;
 
         await conn.sendMessage(from, {
             text,
